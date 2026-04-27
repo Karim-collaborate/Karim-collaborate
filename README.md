@@ -76,8 +76,3 @@ Flutter, Node.js, Express, PostgreSQL
 
 Actively working toward a **software engineering internship** where I can contribute to real-world systems and grow in a high-impact environment.
 
----
-
-## 📫 Contact
-
-* Email: [karimoolahiane9@gmail.com](mailto:karimoolahiane9@gmail.com)
